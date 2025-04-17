@@ -11,7 +11,7 @@
 <body>
     <h1>
         <?php // super tag
-            echo "Olá, Mundo! \u{1F30E}"; // caracteres UNICODE
+        echo "Olá, Mundo! \u{1F30E}"; // caracteres UNICODE
         ?>
     </h1>
     <p>Vamos tentando me livrar disso</p>

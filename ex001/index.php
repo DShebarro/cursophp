@@ -9,8 +9,12 @@
 
 <body>
     <h1>Dados de Servidor</h1> // Título de nível 1
-    <?
-        phpinfo(); // Dados de onde o script está armazenado (Servidor)
+    <?php
+    // phpinfo(); // Dados de onde o script está armazenado (Servidor)
+    $nome = "Davy";
+    echo "<p>Eu me chamo $nome!</p>";
+
+
     ?>
 </body>
 
