@@ -28,6 +28,7 @@
 ### Variaeis são Case-Sensitive
 <pre>
 ´´´
+
     <?php
          $color = "red";
 
